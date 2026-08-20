@@ -1,0 +1,1 @@
+<template><nav><a class="logo" href="#">IS<span>.</span></a><div class="links"><a href="#work">Work</a><a href="#about">About</a><a href="#stack">Stack</a><a href="#contact">Contact</a></div></nav></template>

@@ -1,0 +1,2 @@
+<script setup lang="ts">defineProps<{title:string,description:string,tags:string[]}>()</script>
+<template><article class="card project"><div><h3>{{ title }}</h3><p>{{ description }}</p><div class="tags"><span v-for="tag in tags" :key="tag" class="tag">{{ tag }}</span></div></div><div class="bottom"><a class="btn" href="#" @click.prevent>Case study →</a></div></article></template>
