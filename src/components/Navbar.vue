@@ -1,6 +1,6 @@
 <template>
   <nav>
-    <a class="logo" href="#">AK<span>.</span></a>
+    <a class="logo" href="#">Andreas Karmenis<span>.</span></a>
     <div class="links">
       <a href="#experience">Experience</a>
       <a href="#work">Work</a>
