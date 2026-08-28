@@ -213,6 +213,79 @@ import { projects } from './data/projects'
             </div>
           </article>
 
+              
+          <article class="experience-item">
+            <div class="experience-date">JUL 2018 — APR 2019</div>
+            <div>
+              <h3>Java Software Engineer · Municipal Water & Sewerage Enterprise</h3>
+              <p>
+                Developed and enhanced Java-based enterprise systems supporting municipal
+                water and sewerage operations, translating business requirements into
+                reliable software solutions while collaborating with cross-functional teams.
+              </p>
+              <div class="tags">
+                <span class="tag">Java</span><span class="tag">Backend</span>
+                <span class="tag">Government</span><span class="tag">Utilities</span>
+                <span class="tag">Enterprise</span>
+              </div>
+            </div>
+          </article>
+          
+          <article class="experience-item">
+            <div class="experience-date">MAY 2014 — MAR 2018</div>
+            <div>
+              <h3>Java Developer · Wirecard</h3>
+              <p>
+                Developed high-performance Java applications within a global digital
+                payments environment, working on financial systems supporting cashless
+                payment processes and integrations across online, mobile and point-of-sale
+                channels.
+              </p>
+              <div class="tags">
+                <span class="tag">Java</span><span class="tag">Fintech</span>
+                <span class="tag">Payments</span><span class="tag">Enterprise</span>
+                <span class="tag">Financial Systems</span>
+              </div>
+            </div>
+          </article>
+          
+          <article class="experience-item">
+            <div class="experience-date">MAY 2012 — JUN 2014</div>
+            <div>
+              <h3>Java Full Stack Developer · Xite Agency</h3>
+              <p>
+                Designed and implemented full-stack web applications, combining Java and
+                PHP backend development with frontend functionality and database-driven
+                solutions for web and digital projects.
+              </p>
+              <div class="tags">
+                <span class="tag">Java</span><span class="tag">PHP</span>
+                <span class="tag">JavaScript</span><span class="tag">Web</span>
+                <span class="tag">Full Stack</span>
+              </div>
+            </div>
+          </article>
+          
+          <article class="experience-item">
+            <div class="experience-date">FEB 2011 — DEC 2011</div>
+            <div>
+              <h3>Java Full Stack Developer · Municipality of Kos</h3>
+              <p>
+                Developed Java-based web applications supporting municipal digital
+                services, focusing on reliable backend functionality, user-facing
+                workflows and integration with public-sector processes.
+              </p>
+              <div class="tags">
+                <span class="tag">Java</span><span class="tag">Government</span>
+                <span class="tag">Web</span><span class="tag">Backend</span>
+                <span class="tag">Public Sector</span>
+              </div>
+            </div>
+          </article>
+ 
+
+          
+
         </div>
       </section>
 
