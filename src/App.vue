@@ -808,8 +808,8 @@ void process() {
 
                 <pre><code>&lt;addUniqueConstraint
     tableName="PERSON"
-    columnNames="AFM"
-    constraintName="UK_PERSON_AFM"/&gt;</code></pre>
+    columnNames="VAT"
+    constraintName="UK_PERSON_VAT"/&gt;</code></pre>
 
               </div>
 
