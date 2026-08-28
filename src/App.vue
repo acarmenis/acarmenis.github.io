@@ -125,7 +125,7 @@ import { projects } from './data/projects'
 
 
           <article class="experience-item">
-            <div class="experience-date">MAR 2025 — PRESENT</div>
+            <div class="experience-date">MAR 2025 — FEB 2026</div>
 
             <div>
               <h3>Senior Java Developer · Universal Tankers Corporation</h3>
