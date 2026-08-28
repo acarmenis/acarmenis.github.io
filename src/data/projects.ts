@@ -35,6 +35,37 @@ export const projects = [
     tags: ['Java', 'Enterprise', 'Backend']
   },
   {
+  title: 'Municipal Water & Sewerage Systems',
+  category: 'Government / Utilities',
+  description:
+    'Developed and enhanced Java-based systems supporting municipal water and sewerage operations, working with business and technical teams to translate operational requirements into reliable software solutions.',
+  tags: ['Java', 'Government', 'Utilities', 'Backend', 'Enterprise']
+},
+
+{
+  title: 'Global Digital Payments',
+  category: 'Fintech / Payments',
+  description:
+    'Developed high-performance Java applications within a global digital payments environment, supporting cashless payment processes, financial services and integrations across online, mobile and point-of-sale channels.',
+  tags: ['Java', 'Fintech', 'Payments', 'REST', 'Enterprise']
+},
+
+{
+  title: 'Web & Digital Solutions',
+  category: 'Web / Full Stack',
+  description:
+    'Designed and implemented full-stack applications for web and digital projects, combining Java and PHP backend development with frontend functionality and database-driven solutions.',
+  tags: ['Java', 'PHP', 'JavaScript', 'Web', 'Full Stack']
+},
+
+{
+  title: 'Municipal Digital Services',
+  category: 'Government / Public Sector',
+  description:
+    'Developed Java-based web applications for municipal digital services, focusing on reliable backend functionality, user-facing workflows and integration with public-sector processes.',
+  tags: ['Java', 'Government', 'Web', 'Backend', 'Public Sector']
+},
+  {
     title: 'Personal Backend Projects',
     category: 'Open Source / Personal',
     description:
