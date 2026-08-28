@@ -199,21 +199,6 @@ import { projects } from './data/projects'
             </div>
           </article>
 
-
-          <article class="experience-item">
-            <div class="experience-date">MAY 2014 — MAR 2018</div>
-
-            <div>
-              <h3>Java Developer · Wirecard</h3>
-
-              <p>
-                Developed high-performance Java applications for financial and
-                payment-related systems.
-              </p>
-            </div>
-          </article>
-
-              
           <article class="experience-item">
             <div class="experience-date">JUL 2018 — APR 2019</div>
             <div>
@@ -228,6 +213,19 @@ import { projects } from './data/projects'
                 <span class="tag">Government</span><span class="tag">Utilities</span>
                 <span class="tag">Enterprise</span>
               </div>
+            </div>
+          </article>
+
+          <article class="experience-item">
+            <div class="experience-date">MAY 2014 — MAR 2018</div>
+
+            <div>
+              <h3>Java Developer · Wirecard</h3>
+
+              <p>
+                Developed high-performance Java applications for financial and
+                payment-related systems.
+              </p>
             </div>
           </article>
           
