@@ -1412,6 +1412,19 @@ void process() {
 
         <h2>Academic foundation.</h2>
 
+                <div class="card">
+            <span class="education-label">M.Sc.</span>
+
+            <h3>
+              <p>M.Sc. — Cybersecurity · Currently pursuing</p>
+              <p>Focus on Cybersecurity, Blockchain and secure software systems.</p>
+            </h3>
+
+            <p>
+              University of Piraeus · 
+            </p>
+          </div>
+        
         <div class="education-grid">
 
           <div class="card">
