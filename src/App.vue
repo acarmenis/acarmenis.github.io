@@ -1460,7 +1460,7 @@ void process() {
             </h3>
 
             <p>
-              Technical Vocational School of Athens · 3-year technical studies
+              Technical Vocational School of Athens · 3-year technical studies · GPA 9.82/10
             </p>
           </div>
           
