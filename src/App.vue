@@ -1516,6 +1516,15 @@ void process() {
 
             <a
               class="btn"
+              href="https://gitlab.com/com.carmenis"
+              target="_blank"
+              rel="noreferrer"
+            >
+              GitLab ↗
+            </a>
+            
+            <a
+              class="btn"
               href="mailto:a.karmenis@outlook.com"
             >
               Email ↗
