@@ -1418,8 +1418,8 @@ void process() {
             <span class="education-label">M.Sc.</span>
 
             <h3>
-              M.Sc. — Cybersecurity · Currently pursuing </ br>
-              Focus on Cybersecurity, Blockchain and secure software systems. 
+               <div class="csm-1">M.Sc. — Cybersecurity · <span class="csm-cp">Currently pursuing ..</span></div>  
+               <div class="csm-1">Focus on Cybersecurity, Blockchain and secure software systems. </div>
             </h3>
 
             <p>
