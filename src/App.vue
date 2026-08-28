@@ -215,19 +215,6 @@ import { projects } from './data/projects'
               </div>
             </div>
           </article>
-
-          <article class="experience-item">
-            <div class="experience-date">MAY 2014 — MAR 2018</div>
-
-            <div>
-              <h3>Java Developer · Wirecard</h3>
-
-              <p>
-                Developed high-performance Java applications for financial and
-                payment-related systems.
-              </p>
-            </div>
-          </article>
           
           <article class="experience-item">
             <div class="experience-date">MAY 2014 — MAR 2018</div>
