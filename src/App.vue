@@ -235,7 +235,7 @@ import { projects } from './data/projects'
           </article>
           
           <article class="experience-item">
-            <div class="experience-date">MAY 2012 — JUN 2014</div>
+            <div class="experience-date">MAY 2012 — MAY 2014</div>
             <div>
               <h3>Java Full Stack Developer · Xite Agency</h3>
               <p>
