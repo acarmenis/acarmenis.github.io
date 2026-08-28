@@ -1452,6 +1452,18 @@ void process() {
             </p>
           </div>
 
+          <div class="card">
+            <span class="education-label">Technical Vocational Education</span>
+
+            <h3>
+              Application Engineer and Computer Networks
+            </h3>
+
+            <p>
+              Technical Vocational School of Athens · 3-year technical studies
+            </p>
+          </div>
+          
 
           <div class="card">
             <span class="education-label">Certificate</span>
