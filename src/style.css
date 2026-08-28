@@ -279,11 +279,13 @@ pre{
   }
 
   .card h3 .csm-2{
-    color: dimgray;
+    color: #becbae;
+    font-size: 15px;
   }
 
   .card h3 .csm-cp {
-    color: #a49897;
+    color: #99a982;
+    font-size: 15px;
   }
 
 
