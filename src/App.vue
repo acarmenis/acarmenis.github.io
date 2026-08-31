@@ -293,9 +293,11 @@ import { projects } from './data/projects'
         <h2>Don't just look at what I built. Look at how I think.</h2>
 
         <p class="lead">
-          Senior backend engineering is not only about writing code. It is about
-          understanding the problem, evaluating constraints, making sound technical
-          decisions and delivering software that remains reliable as the system evolves.
+          Senior backend engineering is about owning the problem and the system, 
+          not just the code. It means understanding the domain, challenging assumptions, 
+          balancing constraints, and making sound technical decisions that stand up over time. 
+          The measure of good engineering is not whether software works today, 
+          but whether it remains reliable, maintainable, and resilient as the system evolves.
         </p>
 
 
