@@ -756,7 +756,9 @@ import { projects } from './data/projects'
 
           <article class="review-card">
 
-            These are examples of the kinds of issues I look for during backend code reviews: not just whether the code works, but whether its behaviour, performance, and architectural boundaries are appropriate.
+            <p>
+              These are examples of the kinds of issues I look for during backend code reviews: not just whether the code works, but whether its behaviour, performance, and architectural boundaries are appropriate.
+            </p>
             
             <div class="review-card-header">
               <span class="review-label warning">JPA / PERFORMANCE</span>
