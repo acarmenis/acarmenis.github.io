@@ -373,16 +373,16 @@ import { projects } from './data/projects'
             <h3>Understand the problem</h3>
 
             <p>
-              I start with the business problem rather than the implementation.
-              Understanding the domain usually determines what the code should look like.
+              I begin by understanding the business problem and the domain before deciding how the code should be structured. 
+              A clear understanding of the domain leads to better models, clearer responsibilities, and more predictable behaviour.
             </p>
 
             <ul class="engineering-list">
-              <li>Clarify requirements and business rules</li>
-              <li>Identify edge cases and ambiguous behaviour</li>
-              <li>Understand existing workflows</li>
-              <li>Identify actors and responsibilities</li>
-              <li>Question assumptions before implementation</li>
+              <li>Clarify requirements, constraints, and business rules</li>
+              <li>Identify edge cases, ambiguities, and exceptional scenarios</li>
+              <li>Understand existing workflows and system behaviour</li>
+              <li>Define actors, responsibilities, and domain boundaries</li>
+              <li>Challenge assumptions before committing to an implementation</li>
             </ul>
 
           </article>
