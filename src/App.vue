@@ -21,16 +21,23 @@ import { projects } from './data/projects'
           <h1>Building reliable backend systems that scale.</h1>
 
           <p>
-            Java backend engineer with 15+ years of experience building enterprise,
-            government and financial systems. Focused on clean architecture,
-            APIs, persistence, security and maintainable software.
+            Senior Java Backend Engineer with 15+ years of experience architecting 
+            and delivering robust enterprise systems for government, financial, 
+            and complex business domains. Strong expertise in Java-based backend development, 
+            API design, distributed systems, persistence, security, database architecture, 
+            and enterprise integrations. Proven ability to translate complex business 
+            requirements into scalable, maintainable technical solutions, 
+            while driving architectural decisions, code quality, testing, and long-term system sustainability.
           </p>
 
           <div class="hero-philosophy">
-            I don't approach backend development as simply implementing tickets.
-            I start by understanding the domain, evaluate the impact of a change,
-            design the simplest solution that fits the system, validate it with
-            tests and review it from a production perspective.
+            My approach to backend engineering goes beyond implementation. 
+            I first understand the business domain, existing architecture,
+            and the wider impact of a change before making design decisions. 
+            I favor simple, robust solutions that integrate naturally with the system, 
+            and I validate them through comprehensive testing and critical review. 
+            Every solution is evaluated not only for correctness, but also for maintainability, 
+            security, performance, reliability, and its behavior in production.
           </div>
 
           <div class="actions">
@@ -1051,9 +1058,10 @@ void process() {
         <h2>AI accelerates engineering. It doesn't replace judgment.</h2>
 
         <p class="lead">
-          I use AI as an engineering accelerator for exploration, implementation,
-          testing and review while keeping architectural, security, business and
-          production decisions under human engineering judgment.
+          I use AI to accelerate engineering work across research, implementation, 
+          testing, and review, but treat its output as input rather than authority. 
+          I apply my own engineering judgment to validate solutions and remain 
+          accountable for the architectural, security, business, and production decisions behind the software.
         </p>
 
 
