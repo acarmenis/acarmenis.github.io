@@ -1301,16 +1301,19 @@ void process() {
             <h2>Backend first. Product aware.</h2>
 
             <p class="lead">
-              I enjoy turning complex business requirements into clear domain models,
-              maintainable services and predictable APIs. My strongest area is Java
-              backend engineering, particularly enterprise systems where reliability,
-              security and data matter.
+             I engineer reliable backend systems that turn complex business requirements 
+             into well-defined domain models, maintainable services, and predictable APIs. 
+              My strongest area is Java backend engineering, with a particular focus on 
+              enterprise systems where reliability, security, data integrity, and long-term maintainability are critical.
             </p>
 
             <p class="lead">
-              I hold an M.Sc. in Advanced Software Development Technologies and
-              have worked across government, fintech, intellectual property,
-              transportation and enterprise software.
+              I hold an M.Sc. in Advanced Software Development Technologies and am currently 
+              pursuing a second M.Sc. in Cybersecurity, with a focus on Cybersecurity, 
+              Blockchain, and secure software systems, at the University of Piraeus. 
+              I have experience across government, fintech, intellectual property, transportation,
+              and enterprise software. I bring a product-aware engineering mindset to backend 
+              development—understanding not only how systems should be built, but why they exist and how they should serve the business.
             </p>
 
             <a class="btn primary" href="/assets/cv.pdf" download>
