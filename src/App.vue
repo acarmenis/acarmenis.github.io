@@ -755,11 +755,7 @@ import { projects } from './data/projects'
           <!-- REVIEW EXAMPLE 1 -->
 
           <article class="review-card">
-
-            <p>
-              These are examples of the kinds of issues I look for during backend code reviews: not just whether the code works, but whether its behaviour, performance, and architectural boundaries are appropriate.
-            </p>
-            
+ 
             <div class="review-card-header">
               <span class="review-label warning">JPA / PERFORMANCE</span>
               <span class="review-label">01</span>
@@ -771,6 +767,10 @@ import { projects } from './data/projects'
 
                 <span class="code-label">Potential problem</span>
 
+                  <p>
+                    These are examples of the kinds of issues I look for during backend code reviews: not just whether the code works, but whether its behaviour, performance, and architectural boundaries are appropriate.
+                  </p>
+                
                 <pre><code>@OneToMany(
     fetch = FetchType.EAGER
 )
