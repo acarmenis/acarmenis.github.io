@@ -756,6 +756,8 @@ import { projects } from './data/projects'
 
           <article class="review-card">
 
+            These are examples of the kinds of issues I look for during backend code reviews: not just whether the code works, but whether its behaviour, performance, and architectural boundaries are appropriate.
+            
             <div class="review-card-header">
               <span class="review-label warning">JPA / PERFORMANCE</span>
               <span class="review-label">01</span>
@@ -770,7 +772,7 @@ import { projects } from './data/projects'
                 <pre><code>@OneToMany(
     fetch = FetchType.EAGER
 )
-private List&lt;Document&gt; documents;</code></pre>
+private Set&lt;Document&gt; documents;</code></pre>
 
               </div>
 
@@ -779,9 +781,9 @@ private List&lt;Document&gt; documents;</code></pre>
                 <span class="code-label">Review</span>
 
                 <p>
-                  EAGER relationships can cause unnecessary database loading and
-                  make query behaviour harder to control. Depending on the surrounding
-                  query, they can also contribute to N+1 queries or excessive result sets.
+                  EAGER relationships can trigger unnecessary database loading and make query behaviour harder to control. 
+                  Depending on the surrounding query and relationship structure, they can also contribute to N+1 queries, 
+                  larger result sets, and unnecessary memory usage.
                 </p>
 
                 <span class="code-label">Preferred direction</span>
@@ -789,7 +791,7 @@ private List&lt;Document&gt; documents;</code></pre>
                 <pre><code>@OneToMany(
     fetch = FetchType.LAZY
 )
-private List&lt;Document&gt; documents;</code></pre>
+private Set&lt;Document&gt; documents;</code></pre>
 
                 <p class="review-note">
                   Fetch the data explicitly for the use case that requires it instead
@@ -835,9 +837,9 @@ void updateRecords() {
                 <span class="code-label">Review</span>
 
                 <p>
-                  Transactional interception depends on the CDI invocation path.
-                  Calling the transactional method from the same bean is not the
-                  same as invoking it through the CDI proxy.
+                  Transactional interception depends on how the method is invoked. 
+                  Calling a transactional method from within the same CDI bean bypasses the CDI proxy, 
+                  so the transactional interceptor is not applied through that invocation path.
                 </p>
 
                 <span class="code-label">Preferred direction</span>
