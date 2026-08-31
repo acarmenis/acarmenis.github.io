@@ -395,16 +395,16 @@ import { projects } from './data/projects'
             <h3>Explore the existing system</h3>
 
             <p>
-              Before introducing a change, I want to understand how the current
-              system works and where the change actually belongs.
+              Before introducing a change, I first understand how the existing system works and where 
+              the change naturally belongs. Good changes should fit the architecture rather than work around it.
             </p>
 
             <ul class="engineering-list">
               <li>Trace the request through the application</li>
-              <li>Understand existing architecture</li>
-              <li>Inspect related entities and repositories</li>
-              <li>Understand existing conventions</li>
-              <li>Identify hidden dependencies</li>
+              <li>Understand the existing architecture and flow</li>
+              <li>Inspect related entities, repositories, and services</li>
+              <li>Follow established conventions and patterns</li>
+              <li>Identify dependencies, coupling, and potential side effects</li>
             </ul>
 
           </article>
@@ -417,17 +417,17 @@ import { projects } from './data/projects'
             <h3>Plan the change</h3>
 
             <p>
-              A small requirement can have a surprisingly large impact. I consider
-              the complete change before starting implementation.
+              A seemingly small requirement can have a broader impact across the system. 
+              Before implementation, I consider the complete change, its dependencies, and its potential consequences.
             </p>
 
             <ul class="engineering-list">
-              <li>API impact</li>
-              <li>Database changes</li>
-              <li>Migration strategy</li>
-              <li>Security implications</li>
-              <li>Backward compatibility</li>
-              <li>Testing requirements</li>
+              <li>API and contract impact</li>
+              <li>Database and schema changes</li>
+              <li>Migration and deployment strategy</li>
+              <li>Security and authorization implications</li>
+              <li>Backward compatibility and existing consumers</li>
+              <li>Testing and verification requirements</li>
             </ul>
 
           </article>
@@ -462,15 +462,15 @@ import { projects } from './data/projects'
             <h3>Implement with the system in mind</h3>
 
             <p>
-              Implementation is where the design becomes code, but the surrounding
-              system remains part of every decision.
+              Implementation turns the design into working software, while keeping the broader system, 
+              its constraints, and its existing conventions in view.
             </p>
 
             <ul class="engineering-list">
               <li>Readable and maintainable Java</li>
-              <li>Consistent project conventions</li>
+              <li>Consistent project conventions and patterns</li>
               <li>Explicit error handling</li>
-              <li>Input validation</li>
+              <li>Robust input validation</li>
               <li>Security-aware implementation</li>
             </ul>
 
@@ -484,8 +484,8 @@ import { projects } from './data/projects'
             <h3>Verify behaviour</h3>
 
             <p>
-              I validate the behaviour that matters rather than treating test coverage
-              as the only definition of quality.
+              I validate the behaviour that matters, using tests as a means of establishing 
+              correctness rather than treating coverage alone as a measure of quality..
             </p>
 
             <ul class="engineering-list">
@@ -514,8 +514,9 @@ import { projects } from './data/projects'
         <h2>How I reason about everyday backend changes.</h2>
 
         <p class="lead">
-          Good engineering decisions often happen before the code is written.
-          These are the questions I use to challenge an implementation.
+         Good engineering decisions often happen before the code is written. 
+          I use a set of practical questions to challenge assumptions, 
+          understand the impact of a change, and arrive at a design that fits the system.
         </p>
 
 
