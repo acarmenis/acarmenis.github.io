@@ -261,7 +261,7 @@ import { projects } from './data/projects'
           <article class="experience-item">
             <div class="experience-date">FEB 2011 — DEC 2011</div>
             <div>
-              <h3>Java Full Stack Developer · Municipality of Kos</h3>
+              <h3>Java Full Stack Developer · Local Government</h3>
               <p>
                 Developed Java-based web applications supporting municipal digital
                 services, focusing on reliable backend functionality, user-facing
