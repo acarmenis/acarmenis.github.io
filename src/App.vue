@@ -114,8 +114,11 @@ import { projects } from './data/projects'
               <h3>Senior Java Software Engineer · Byte</h3>
 
               <p>
-                Backend development using Java, Quarkus, REST, OpenAPI, Keycloak,
-                JPA and Oracle, with a focus on secure and maintainable enterprise APIs.
+                Engineering a mission-critical government application for ASEP (Supreme Council for Civil Personnel Selection), 
+                the independent Greek authority responsible for civil service recruitment and personnel selection. 
+                The platform supports nationwide public-sector processes where reliability, security, data integrity, 
+                and long-term maintainability are essential. Responsible for backend development and technical design using Java,
+                Quarkus, REST, OpenAPI, Keycloak, JPA, and Oracle.
               </p>
 
               <div class="tags">
