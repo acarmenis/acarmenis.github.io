@@ -15,29 +15,31 @@ import { projects } from './data/projects'
            ===================================================== -->
 
       <section class="hero">
+
         <div>
+
           <div class="eyebrow">Senior Java Software Engineer</div>
 
           <h1>Building reliable backend systems that scale.</h1>
 
           <p>
-            Senior Java Backend Engineer with 16+ years of experience architecting and delivering robust 
-            enterprise systems across government, financial, and complex business domains. 
-            Strong expertise in Java-based backend development, API design, distributed systems, 
-            persistence, security, database architecture, and enterprise integrations, 
-            with hands-on specialization in Spring Boot and Quarkus. 
-            Proven ability to translate complex business requirements into scalable, 
-            maintainable technical solutions while driving architectural decisions, code quality, testing, and long-term system sustainability.
+            Senior Java Backend Engineer with 16+ years of experience architecting
+            and delivering robust enterprise systems across government, financial,
+            and complex business domains.
+          </p>
+
+          <p>
+            Strong expertise in Java-based backend development, API design,
+            distributed systems, persistence, security, database architecture,
+            and enterprise integrations, with hands-on specialization in
+            Spring Boot and Quarkus.
           </p>
 
           <div class="hero-philosophy">
-            My approach to backend engineering goes beyond implementation. 
-            I first understand the business domain, existing architecture,
-            and the wider impact of a change before making design decisions. 
-            I favor simple, robust solutions that integrate naturally with the system, 
-            and I validate them through comprehensive testing and critical review. 
-            Every solution is evaluated not only for correctness, but also for maintainability, 
-            security, performance, reliability, and its behavior in production.
+            I don't treat backend engineering as simply implementing requirements.
+            I first understand the domain, the existing architecture, and the wider
+            impact of a change. I then make deliberate technical decisions and
+            validate them through testing, review, and production-oriented thinking.
           </div>
 
           <div class="actions">
@@ -58,13 +60,16 @@ import { projects } from './data/projects'
               LinkedIn ↗
             </a>
           </div>
+
         </div>
 
+
         <div class="terminal">
+
           <div class="dots">
-            <i/>
-            <i/>
-            <i/>
+            <i />
+            <i />
+            <i />
           </div>
 
           <pre><span class="m">$</span> whoami
@@ -87,7 +92,9 @@ import { projects } from './data/projects'
   test → review → deliver
 
 <span class="b">status:</span> building things that last.</pre>
+
         </div>
+
       </section>
 
 
@@ -96,55 +103,82 @@ import { projects } from './data/projects'
            ===================================================== -->
 
       <section id="experience">
+
         <div class="eyebrow">Experience</div>
 
         <h2>Enterprise software, from fintech to government.</h2>
 
         <p class="lead">
-          A career focused on Java development across large-scale, business-critical
-          systems and public-sector platforms.
+          16+ years of Java development across large-scale, business-critical
+          systems, public-sector platforms, financial services, and complex
+          enterprise environments.
         </p>
+
 
         <div class="timeline">
 
           <article class="experience-item current">
-            <div class="experience-date">FEB 2026 — PRESENT</div>
+
+            <div class="experience-date">
+              FEB 2026 — PRESENT
+            </div>
 
             <div>
+
               <h3>Senior Java Software Engineer · Byte</h3>
 
               <p>
-                Engineering a mission-critical government application for ASEP (Supreme Council for Civil Personnel Selection), 
-                the independent Greek authority responsible for civil service recruitment and personnel selection. 
-                The platform supports nationwide public-sector processes where reliability, security, data integrity, 
-                and long-term maintainability are essential. Responsible for backend development and technical design using Java,
-                Quarkus, REST, OpenAPI, Keycloak, JPA, and Oracle.
+                Engineering a mission-critical government application for ASEP
+                (Supreme Council for Civil Personnel Selection), the independent
+                Greek authority responsible for civil service recruitment and
+                personnel selection. The platform supports nationwide public-sector
+                processes where reliability, security, data integrity, and
+                long-term maintainability are essential.
+              </p>
+
+              <p>
+                Responsible for backend development and technical design using
+                Java, Quarkus, REST, OpenAPI, Keycloak, JPA, Oracle, Liquibase,
+                and enterprise integration patterns.
               </p>
 
               <div class="tags">
-                <span class="tag">Java</span>
+                <span class="tag">Java 21</span>
                 <span class="tag">Quarkus</span>
                 <span class="tag">REST</span>
                 <span class="tag">OpenAPI</span>
                 <span class="tag">Keycloak</span>
                 <span class="tag">JPA</span>
                 <span class="tag">Oracle</span>
+                <span class="tag">Liquibase</span>
               </div>
+
             </div>
+
           </article>
 
 
           <article class="experience-item">
-            <div class="experience-date">MAR 2025 — FEB 2026</div>
+
+            <div class="experience-date">
+              MAR 2025 — FEB 2026
+            </div>
 
             <div>
+
               <h3>Senior Java Developer · Universal Tankers Corporation</h3>
 
               <p>
-                Engineering enterprise software supporting the worldwide operations of a tanker shipping company, 
-                spanning vessel and crew scheduling, personnel management, procurement and supplies, ticketing, 
-                cargo management, and voyage planning. Worked across a complex multi-technology environment, 
-                developing and integrating Java and Spring Boot services with REST APIs, Groovy, Rails, Angular, Oracle, PostgreSQL, and Keycloak.
+                Engineered enterprise software supporting the worldwide
+                operations of a tanker shipping company, spanning vessel and crew
+                scheduling, personnel management, procurement and supplies,
+                ticketing, cargo management, and voyage planning.
+              </p>
+
+              <p>
+                Worked across a complex multi-technology environment, developing
+                and integrating Java and Spring Boot services with REST APIs,
+                Groovy, Rails, Angular, Oracle, PostgreSQL, and Keycloak.
               </p>
 
               <div class="tags">
@@ -156,22 +190,33 @@ import { projects } from './data/projects'
                 <span class="tag">PostgreSQL</span>
                 <span class="tag">Keycloak</span>
               </div>
+
             </div>
+
           </article>
 
 
           <article class="experience-item">
-            <div class="experience-date">NOV 2022 — DEC 2024</div>
+
+            <div class="experience-date">
+              NOV 2022 — DEC 2024
+            </div>
 
             <div>
+
               <h3>Senior Java Developer · UniSystems</h3>
 
               <p>
-                Engineered large-scale Java applications for critical public-sector and government systems, 
-                including nationwide eJustice platforms for Greece and Cyprus. Contributed to digital 
-                transformation of judicial processes across both countries, 
-                as well as the UK Emissions Trading Scheme, working on complex enterprise systems where reliability, 
-                security, and scalability were essential.
+                Engineered large-scale Java applications for critical public-sector
+                and government systems, including nationwide eJustice platforms
+                for Greece and Cyprus.
+              </p>
+
+              <p>
+                Contributed to the digital transformation of judicial processes
+                across both countries, as well as the UK Emissions Trading Scheme,
+                working on complex enterprise systems where reliability, security,
+                scalability, and long-term maintainability were essential.
               </p>
 
               <div class="tags">
@@ -181,112 +226,186 @@ import { projects } from './data/projects'
                 <span class="tag">REST</span>
                 <span class="tag">Oracle</span>
               </div>
+
             </div>
+
           </article>
 
 
           <article class="experience-item">
-            <div class="experience-date">JAN 2022 — OCT 2022</div>
+
+            <div class="experience-date">
+              JAN 2022 — OCT 2022
+            </div>
 
             <div>
+
               <h3>Java Developer · European Patent Office</h3>
 
               <p>
-                Developed enterprise applications supporting European patent and intellectual property operations within the European Patent Office, 
-                an international organization serving patent systems across Europe. 
-                Contributed to robust Java services, reliable integrations, and high-performance applications in a large-scale public-sector environment.
+                Developed enterprise applications supporting European patent and
+                intellectual property operations within the European Patent Office,
+                contributing to robust Java services, reliable integrations, and
+                high-performance applications in a large-scale international
+                public-sector environment.
               </p>
+
             </div>
+
           </article>
 
 
           <article class="experience-item">
-            <div class="experience-date">MAY 2019 — DEC 2021</div>
+
+            <div class="experience-date">
+              MAY 2019 — DEC 2021
+            </div>
 
             <div>
+
               <h3>Java Developer · EUIPO / Greek Ministry</h3>
 
               <p>
-                Contributed to the digital transformation and modernization of trademark services, 
-                integrating applications, databases, and the broader enterprise ecosystem to support 
-                reliable and scalable intellectual property operations.
+                Contributed to the digital transformation and modernization of
+                trademark services, integrating applications, databases, and the
+                broader enterprise ecosystem to support reliable and scalable
+                intellectual property operations.
               </p>
+
             </div>
+
           </article>
 
+
           <article class="experience-item">
-            <div class="experience-date">JUL 2018 — APR 2019</div>
+
+            <div class="experience-date">
+              JUL 2018 — APR 2019
+            </div>
+
             <div>
-              <h3>Java Software Engineer · Municipal Water & Sewerage Enterprise</h3>
+
+              <h3>
+                Java Software Engineer · Municipal Water & Sewerage Enterprise
+              </h3>
+
               <p>
-                Developed and enhanced Java-based enterprise systems supporting essential public-sector water and sewerage services,
-                translating business requirements into reliable software solutions and collaborating across technical and business teams.
+                Developed and enhanced Java-based enterprise systems supporting
+                essential public-sector water and sewerage services, translating
+                business requirements into reliable software solutions and
+                collaborating across technical and business teams.
               </p>
+
               <div class="tags">
-                <span class="tag">Java</span><span class="tag">Backend</span>
-                <span class="tag">Government</span><span class="tag">Utilities</span>
+                <span class="tag">Java</span>
+                <span class="tag">Backend</span>
+                <span class="tag">Government</span>
+                <span class="tag">Utilities</span>
                 <span class="tag">Enterprise</span>
               </div>
+
             </div>
+
           </article>
-          
+
+
           <article class="experience-item">
-            <div class="experience-date">MAY 2014 — MAR 2018</div>
+
+            <div class="experience-date">
+              MAY 2014 — MAR 2018
+            </div>
+
             <div>
+
               <h3>Java Developer · Wirecard</h3>
+
               <p>
-                Developed and maintained enterprise Java applications within a global financial services and payments environment, 
-                supporting banks, credit card transactions, merchants, and point-of-sale systems. Worked across POS, mobile, telephone, 
-                and web payment channels, integrating distributed financial services and contributing to high-performance, 
-                reliable payment infrastructure at global scale.
+                Developed and maintained enterprise Java applications within a
+                global financial services and payments environment supporting
+                banks, credit card transactions, merchants, and point-of-sale
+                systems.
               </p>
+
+              <p>
+                Worked across POS, mobile, telephone, and web payment channels,
+                integrating distributed financial services and contributing to
+                high-performance, reliable payment infrastructure at global scale.
+              </p>
+
               <div class="tags">
-                <span class="tag">Java</span><span class="tag">Fintech</span>
-                <span class="tag">Payments</span><span class="tag">Enterprise</span>
+                <span class="tag">Java</span>
+                <span class="tag">Fintech</span>
+                <span class="tag">Payments</span>
+                <span class="tag">Enterprise</span>
                 <span class="tag">Financial Systems</span>
               </div>
+
             </div>
+
           </article>
-          
+
+
           <article class="experience-item">
-            <div class="experience-date">MAY 2012 — MAY 2014</div>
+
+            <div class="experience-date">
+              MAY 2012 — MAY 2014
+            </div>
+
             <div>
+
               <h3>Java Full Stack Developer · Xite Agency</h3>
+
               <p>
-                Designed, developed, and maintained web applications and websites, working across Java and PHP backends,
-                frontend functionality, and database-driven solutions. 
-                Delivered new web projects while maintaining and enhancing existing 
-                applications to ensure reliability and ongoing functionality.
+                Designed, developed, and maintained web applications and websites,
+                working across Java and PHP backends, frontend functionality, and
+                database-driven solutions.
               </p>
+
               <div class="tags">
-                <span class="tag">Java</span><span class="tag">PHP</span>
-                <span class="tag">JavaScript</span><span class="tag">Web</span>
+                <span class="tag">Java</span>
+                <span class="tag">PHP</span>
+                <span class="tag">JavaScript</span>
+                <span class="tag">Web</span>
                 <span class="tag">Full Stack</span>
               </div>
+
             </div>
+
           </article>
-          
+
+
           <article class="experience-item">
-            <div class="experience-date">FEB 2011 — DEC 2011</div>
+
+            <div class="experience-date">
+              FEB 2011 — DEC 2011
+            </div>
+
             <div>
+
               <h3>Java Full Stack Developer · Local Government</h3>
+
               <p>
-                Developed and maintained Java-based web applications supporting essential public-sector and municipal services. 
-                Worked across backend functionality, user-facing workflows, 
-                database integration, and business processes, translating operational requirements into reliable digital solutions.
+                Developed and maintained Java-based web applications supporting
+                public-sector and municipal services. Worked across backend
+                functionality, user-facing workflows, database integration, and
+                business processes, translating operational requirements into
+                reliable digital solutions.
               </p>
+
               <div class="tags">
-                <span class="tag">Java</span><span class="tag">Government</span>
-                <span class="tag">Web</span><span class="tag">Backend</span>
+                <span class="tag">Java</span>
+                <span class="tag">Government</span>
+                <span class="tag">Web</span>
+                <span class="tag">Backend</span>
                 <span class="tag">Public Sector</span>
               </div>
-            </div>
-          </article>
- 
 
-          
+            </div>
+
+          </article>
 
         </div>
+
       </section>
 
 
@@ -301,15 +420,12 @@ import { projects } from './data/projects'
         <h2>Don't just look at what I built. Look at how I think.</h2>
 
         <p class="lead">
-          Senior backend engineering is about owning the problem and the system, 
-          not just the code. It means understanding the domain, challenging assumptions, 
-          balancing constraints, and making sound technical decisions that stand up over time. 
-          The measure of good engineering is not whether software works today, 
-          but whether it remains reliable, maintainable, and resilient as the system evolves.
+          Senior backend engineering is about owning the problem and the system,
+          not just the code. It means understanding the domain, challenging
+          assumptions, balancing constraints, and making sound technical decisions
+          that stand up over time.
         </p>
 
-
-        <!-- ENGINEERING FLOW -->
 
         <div class="engineering-flow">
 
@@ -370,8 +486,6 @@ import { projects } from './data/projects'
         </div>
 
 
-        <!-- ENGINEERING CARDS -->
-
         <div class="engineering-grid">
 
           <article class="engineering-card">
@@ -381,16 +495,16 @@ import { projects } from './data/projects'
             <h3>Understand the problem</h3>
 
             <p>
-              I begin by understanding the business problem and the domain before deciding how the code should be structured. 
-              A clear understanding of the domain leads to better models, clearer responsibilities, and more predictable behaviour.
+              I begin with the business problem and domain before deciding how
+              the code should be structured.
             </p>
 
             <ul class="engineering-list">
-              <li>Clarify requirements, constraints, and business rules</li>
-              <li>Identify edge cases, ambiguities, and exceptional scenarios</li>
-              <li>Understand existing workflows and system behaviour</li>
-              <li>Define actors, responsibilities, and domain boundaries</li>
-              <li>Challenge assumptions before committing to an implementation</li>
+              <li>Clarify requirements and business rules</li>
+              <li>Identify edge cases and ambiguity</li>
+              <li>Understand existing workflows</li>
+              <li>Define responsibilities and boundaries</li>
+              <li>Challenge assumptions early</li>
             </ul>
 
           </article>
@@ -403,16 +517,16 @@ import { projects } from './data/projects'
             <h3>Explore the existing system</h3>
 
             <p>
-              Before introducing a change, I first understand how the existing system works and where 
-              the change naturally belongs. Good changes should fit the architecture rather than work around it.
+              Before introducing a change, I understand how the current system
+              works and where the change naturally belongs.
             </p>
 
             <ul class="engineering-list">
-              <li>Trace the request through the application</li>
-              <li>Understand the existing architecture and flow</li>
-              <li>Inspect related entities, repositories, and services</li>
-              <li>Follow established conventions and patterns</li>
-              <li>Identify dependencies, coupling, and potential side effects</li>
+              <li>Trace requests through the application</li>
+              <li>Inspect entities, repositories, and services</li>
+              <li>Follow established conventions</li>
+              <li>Identify coupling and dependencies</li>
+              <li>Consider side effects</li>
             </ul>
 
           </article>
@@ -425,17 +539,17 @@ import { projects } from './data/projects'
             <h3>Plan the change</h3>
 
             <p>
-              A seemingly small requirement can have a broader impact across the system. 
-              Before implementation, I consider the complete change, its dependencies, and its potential consequences.
+              Small requirements can have large consequences. I consider the
+              complete change before implementation.
             </p>
 
             <ul class="engineering-list">
               <li>API and contract impact</li>
               <li>Database and schema changes</li>
-              <li>Migration and deployment strategy</li>
-              <li>Security and authorization implications</li>
-              <li>Backward compatibility and existing consumers</li>
-              <li>Testing and verification requirements</li>
+              <li>Migration strategy</li>
+              <li>Security implications</li>
+              <li>Backward compatibility</li>
+              <li>Testing requirements</li>
             </ul>
 
           </article>
@@ -449,7 +563,7 @@ import { projects } from './data/projects'
 
             <p>
               I prefer the simplest design that satisfies the requirements while
-              keeping responsibilities clear and allowing the system to evolve.
+              keeping responsibilities clear.
             </p>
 
             <ul class="engineering-list">
@@ -470,15 +584,15 @@ import { projects } from './data/projects'
             <h3>Implement with the system in mind</h3>
 
             <p>
-              Implementation turns the design into working software, while keeping the broader system, 
-              its constraints, and its existing conventions in view.
+              Implementation turns the design into working software while keeping
+              the wider system and its constraints in view.
             </p>
 
             <ul class="engineering-list">
               <li>Readable and maintainable Java</li>
-              <li>Consistent project conventions and patterns</li>
+              <li>Consistent project conventions</li>
               <li>Explicit error handling</li>
-              <li>Robust input validation</li>
+              <li>Robust validation</li>
               <li>Security-aware implementation</li>
             </ul>
 
@@ -492,8 +606,8 @@ import { projects } from './data/projects'
             <h3>Verify behaviour</h3>
 
             <p>
-              I validate the behaviour that matters, using tests as a means of establishing 
-              correctness rather than treating coverage alone as a measure of quality..
+              I validate the behaviour that matters rather than treating coverage
+              alone as a measure of quality.
             </p>
 
             <ul class="engineering-list">
@@ -512,6 +626,212 @@ import { projects } from './data/projects'
 
 
       <!-- =====================================================
+           BACKEND ARCHITECTURE
+           ===================================================== -->
+
+      <section id="architecture">
+
+        <div class="eyebrow">Backend Architecture</div>
+
+        <h2>Designing systems around clear boundaries.</h2>
+
+        <p class="lead">
+          My backend designs typically separate API contracts, application
+          behaviour, domain responsibilities, persistence, and infrastructure.
+          The exact architecture depends on the system, but the goal remains the
+          same: clear responsibilities, predictable behaviour, and controlled
+          dependencies.
+        </p>
+
+
+        <div class="architecture-diagram">
+
+          <div class="architecture-side security-side">
+
+            <span>SECURITY</span>
+            <strong>Keycloak / OIDC</strong>
+            <small>Authentication · Authorization</small>
+
+          </div>
+
+
+          <div class="architecture-main">
+
+            <div class="architecture-layer">
+              <span>01</span>
+              <strong>REST API</strong>
+              <small>OpenAPI · DTOs · Validation · HTTP contracts</small>
+            </div>
+
+            <div class="architecture-connector">↓</div>
+
+            <div class="architecture-layer">
+              <span>02</span>
+              <strong>Application / Services</strong>
+              <small>Use cases · Business workflows · Transactions</small>
+            </div>
+
+            <div class="architecture-connector">↓</div>
+
+            <div class="architecture-layer">
+              <span>03</span>
+              <strong>Domain</strong>
+              <small>Business rules · Responsibilities · Invariants</small>
+            </div>
+
+            <div class="architecture-connector">↓</div>
+
+            <div class="architecture-layer">
+              <span>04</span>
+              <strong>Persistence</strong>
+              <small>JPA · Hibernate · Repositories · Query strategy</small>
+            </div>
+
+            <div class="architecture-connector">↓</div>
+
+            <div class="architecture-layer">
+              <span>05</span>
+              <strong>Database</strong>
+              <small>Oracle · PostgreSQL · Constraints · Migrations</small>
+            </div>
+
+          </div>
+
+
+          <div class="architecture-side integration-side">
+
+            <span>INTEGRATION</span>
+            <strong>External Systems</strong>
+            <small>REST · SOAP · Messaging · Enterprise services</small>
+
+          </div>
+
+        </div>
+
+
+        <div class="architecture-principles">
+
+          <article class="card">
+            <span class="architecture-card-number">01</span>
+            <h3>Contracts first</h3>
+            <p>
+              APIs should expose deliberate contracts rather than leaking internal
+              persistence models into consumers.
+            </p>
+          </article>
+
+          <article class="card">
+            <span class="architecture-card-number">02</span>
+            <h3>Responsibilities stay clear</h3>
+            <p>
+              Controllers, services, domain logic, and persistence should have
+              understandable responsibilities.
+            </p>
+          </article>
+
+          <article class="card">
+            <span class="architecture-card-number">03</span>
+            <h3>Persistence is a design concern</h3>
+            <p>
+              Query behaviour, fetching, transactions, constraints, and database
+              performance are considered part of backend design.
+            </p>
+          </article>
+
+          <article class="card">
+            <span class="architecture-card-number">04</span>
+            <h3>Security surrounds the system</h3>
+            <p>
+              Authentication and authorization are considered alongside API and
+              business design rather than added as an afterthought.
+            </p>
+          </article>
+
+        </div>
+
+      </section>
+
+
+      <!-- =====================================================
+           TECHNICAL LEADERSHIP
+           ===================================================== -->
+
+      <section id="leadership">
+
+        <div class="eyebrow">Technical Leadership</div>
+
+        <h2>Senior engineering is also about technical ownership.</h2>
+
+        <p class="lead">
+          Leadership does not require a management title. In engineering, it also
+          means taking responsibility for technical direction, identifying risks,
+          improving quality, communicating trade-offs, and helping the team make
+          better decisions.
+        </p>
+
+
+        <div class="leadership-grid">
+
+          <article class="leadership-card">
+            <span>01</span>
+            <h3>Technical direction</h3>
+            <p>
+              Contribute to architectural discussions and help determine how
+              requirements should translate into maintainable technical solutions.
+            </p>
+          </article>
+
+          <article class="leadership-card">
+            <span>02</span>
+            <h3>Design ownership</h3>
+            <p>
+              Think beyond individual classes and consider API contracts,
+              persistence, transactions, integrations, and system-wide impact.
+            </p>
+          </article>
+
+          <article class="leadership-card">
+            <span>03</span>
+            <h3>Code quality</h3>
+            <p>
+              Use code review to identify correctness, architecture, performance,
+              security, and maintainability problems before they reach production.
+            </p>
+          </article>
+
+          <article class="leadership-card">
+            <span>04</span>
+            <h3>Risk awareness</h3>
+            <p>
+              Identify technical and operational risks early, especially around
+              data integrity, migrations, transactions, security, and integrations.
+            </p>
+          </article>
+
+          <article class="leadership-card">
+            <span>05</span>
+            <h3>Engineering communication</h3>
+            <p>
+              Explain technical decisions in terms of constraints, trade-offs,
+              consequences, and business impact.
+            </p>
+          </article>
+
+          <article class="leadership-card">
+            <span>06</span>
+            <h3>Long-term thinking</h3>
+            <p>
+              Prefer solutions that remain understandable and changeable for the
+              engineers who will maintain the system later.
+            </p>
+          </article>
+
+        </div>
+
+      </section>
+
+
+      <!-- =====================================================
            ENGINEERING IN PRACTICE
            ===================================================== -->
 
@@ -522,15 +842,13 @@ import { projects } from './data/projects'
         <h2>How I reason about everyday backend changes.</h2>
 
         <p class="lead">
-         Good engineering decisions often happen before the code is written. 
-          I use a set of practical questions to challenge assumptions, 
-          understand the impact of a change, and arrive at a design that fits the system.
+          Good engineering decisions often happen before the code is written.
+          I use practical questions to challenge assumptions, understand impact,
+          and arrive at a design that fits the system.
         </p>
 
 
         <div class="practice-grid">
-
-          <!-- DATABASE -->
 
           <article class="practice-card">
 
@@ -568,8 +886,6 @@ import { projects } from './data/projects'
           </article>
 
 
-          <!-- JPA -->
-
           <article class="practice-card">
 
             <div class="practice-header">
@@ -606,8 +922,6 @@ import { projects } from './data/projects'
           </article>
 
 
-          <!-- API -->
-
           <article class="practice-card">
 
             <div class="practice-header">
@@ -643,8 +957,6 @@ import { projects } from './data/projects'
 
           </article>
 
-
-          <!-- TRANSACTION -->
 
           <article class="practice-card">
 
@@ -684,6 +996,96 @@ import { projects } from './data/projects'
 
 
       <!-- =====================================================
+           TECHNICAL DECISIONS
+           ===================================================== -->
+
+      <section id="decisions">
+
+        <div class="eyebrow">Technical Decision Making</div>
+
+        <h2>I make trade-offs explicit.</h2>
+
+        <p class="lead">
+          There is rarely one universally correct technical solution. I prefer
+          to make constraints and trade-offs visible before choosing an approach.
+        </p>
+
+
+        <div class="decision-model">
+
+          <div>
+            <span>01</span>
+            <strong>Problem</strong>
+            <small>What are we solving?</small>
+          </div>
+
+          <b>→</b>
+
+          <div>
+            <span>02</span>
+            <strong>Constraints</strong>
+            <small>What limits the solution?</small>
+          </div>
+
+          <b>→</b>
+
+          <div>
+            <span>03</span>
+            <strong>Alternatives</strong>
+            <small>What options exist?</small>
+          </div>
+
+          <b>→</b>
+
+          <div>
+            <span>04</span>
+            <strong>Trade-offs</strong>
+            <small>What do we gain and lose?</small>
+          </div>
+
+          <b>→</b>
+
+          <div>
+            <span>05</span>
+            <strong>Decision</strong>
+            <small>What fits the system?</small>
+          </div>
+
+        </div>
+
+
+        <div class="decision-grid">
+
+          <article class="card">
+            <h3>Simple over clever</h3>
+            <p>
+              Complexity should solve a real problem. Abstractions and patterns
+              should earn their place in the codebase.
+            </p>
+          </article>
+
+          <article class="card">
+            <h3>Context over fashion</h3>
+            <p>
+              Technologies and patterns should fit the problem, architecture,
+              team capability, and operational constraints.
+            </p>
+          </article>
+
+          <article class="card">
+            <h3>Evolution over perfection</h3>
+            <p>
+              Good design should allow the system to evolve without requiring
+              unnecessary upfront complexity.
+            </p>
+          </article>
+
+        </div>
+
+      </section>
+
+
+      <!-- =====================================================
            CODE REVIEW
            ===================================================== -->
 
@@ -694,9 +1096,9 @@ import { projects } from './data/projects'
         <h2>I review code for engineering problems, not preferences.</h2>
 
         <p class="lead">
-          Code review is a quality and architecture checkpoint. I look for problems
-          that can affect correctness, performance, security, reliability and future
-          maintainability — not simply differences in personal coding style.
+          Code review is a quality and architecture checkpoint. I look for
+          problems that can affect correctness, performance, security, reliability,
+          and future maintainability — not simply differences in coding style.
         </p>
 
 
@@ -760,10 +1162,8 @@ import { projects } from './data/projects'
           <h3>What a review looks like in practice.</h3>
 
 
-          <!-- REVIEW EXAMPLE 1 -->
-
           <article class="review-card">
- 
+
             <div class="review-card-header">
               <span class="review-label warning">JPA / PERFORMANCE</span>
               <span class="review-label">01</span>
@@ -775,10 +1175,6 @@ import { projects } from './data/projects'
 
                 <span class="code-label">Potential problem</span>
 
-                  <p>
-                    These are examples of the kinds of issues I look for during backend code reviews: not just whether the code works, but whether its behaviour, performance, and architectural boundaries are appropriate.
-                  </p>
-                
                 <pre><code>@OneToMany(
     fetch = FetchType.EAGER
 )
@@ -791,9 +1187,11 @@ private Set&lt;Document&gt; documents;</code></pre>
                 <span class="code-label">Review</span>
 
                 <p>
-                  EAGER relationships can trigger unnecessary database loading and make query behaviour harder to control. 
-                  Depending on the surrounding query and relationship structure, they can also contribute to N+1 queries, 
-                  larger result sets, and unnecessary memory usage.
+                  EAGER relationships can trigger unnecessary database loading
+                  and make query behaviour harder to control. Depending on the
+                  surrounding query and relationship structure, they can also
+                  contribute to N+1 queries, larger result sets, and unnecessary
+                  memory usage.
                 </p>
 
                 <span class="code-label">Preferred direction</span>
@@ -804,8 +1202,8 @@ private Set&lt;Document&gt; documents;</code></pre>
 private Set&lt;Document&gt; documents;</code></pre>
 
                 <p class="review-note">
-                  Fetch the data explicitly for the use case that requires it instead
-                  of making every query pay the cost.
+                  Fetch the data explicitly for the use case that requires it
+                  instead of making every query pay the cost.
                 </p>
 
               </div>
@@ -814,8 +1212,6 @@ private Set&lt;Document&gt; documents;</code></pre>
 
           </article>
 
-
-          <!-- REVIEW EXAMPLE 2 -->
 
           <article class="review-card">
 
@@ -847,9 +1243,10 @@ void updateRecords() {
                 <span class="code-label">Review</span>
 
                 <p>
-                  Transactional interception depends on how the method is invoked. 
-                  Calling a transactional method from within the same CDI bean bypasses the CDI proxy, 
-                  so the transactional interceptor is not applied through that invocation path.
+                  Transactional interception depends on how the method is invoked.
+                  Calling a transactional method from within the same CDI bean
+                  bypasses the CDI proxy, so the transactional interceptor is not
+                  applied through that invocation path.
                 </p>
 
                 <span class="code-label">Preferred direction</span>
@@ -870,8 +1267,6 @@ void process() {
 
           </article>
 
-
-          <!-- REVIEW EXAMPLE 3 -->
 
           <article class="review-card">
 
@@ -899,13 +1294,13 @@ void process() {
 
                 <p>
                   A schema change should be reviewed together with existing data,
-                  business rules and the indexes or constraints that Oracle will
+                  business rules, and the indexes or constraints that Oracle will
                   create or use.
                 </p>
 
                 <p class="review-note">
-                  Explicit constraint names make database changes easier to identify,
-                  troubleshoot and maintain across environments.
+                  Explicit constraint names make database changes easier to
+                  identify, troubleshoot, and maintain across environments.
                 </p>
 
               </div>
@@ -920,88 +1315,157 @@ void process() {
 
 
       <!-- =====================================================
-           TECHNICAL DECISION MAKING
+           ENGINEERING OUTCOMES
            ===================================================== -->
 
-      <section id="decisions">
+      <section id="outcomes">
 
-        <div class="eyebrow">Technical Decision Making</div>
+        <div class="eyebrow">Engineering Outcomes</div>
 
-        <h2>I make trade-offs explicit.</h2>
+        <h2>From technical decisions to real system outcomes.</h2>
 
         <p class="lead">
-          There is rarely one universally correct technical solution. I prefer to
-          make the constraints and trade-offs visible before choosing an approach.
+          Engineering value is not measured by how much code is written.
+          It is measured by whether the resulting system becomes more reliable,
+          maintainable, understandable, and capable of supporting the business.
         </p>
 
 
-        <div class="decision-model">
+        <div class="outcomes-grid">
 
-          <div>
-            <span>01</span>
-            <strong>Problem</strong>
-            <small>What are we solving?</small>
-          </div>
+          <article class="outcome-card">
 
-          <b>→</b>
+            <div class="outcome-header">
+              <span>01</span>
+              <strong>Government platform</strong>
+            </div>
 
-          <div>
-            <span>02</span>
-            <strong>Constraints</strong>
-            <small>What limits the solution?</small>
-          </div>
+            <div class="outcome-step">
+              <span>Problem</span>
+              <p>
+                A business requirement affects API behaviour, domain rules,
+                persistence, validation, and existing workflows.
+              </p>
+            </div>
 
-          <b>→</b>
+            <div class="outcome-step">
+              <span>Decision</span>
+              <p>
+                Trace the existing flow first, identify the natural ownership
+                of the change, and evaluate API, database, security, and
+                compatibility impact.
+              </p>
+            </div>
 
-          <div>
-            <span>03</span>
-            <strong>Alternatives</strong>
-            <small>What options exist?</small>
-          </div>
+            <div class="outcome-step">
+              <span>Outcome</span>
+              <p>
+                A targeted change that fits the existing architecture instead
+                of introducing unnecessary coupling or duplicated logic.
+              </p>
+            </div>
 
-          <b>→</b>
-
-          <div>
-            <span>04</span>
-            <strong>Trade-offs</strong>
-            <small>What do we gain and lose?</small>
-          </div>
-
-          <b>→</b>
-
-          <div>
-            <span>05</span>
-            <strong>Decision</strong>
-            <small>What fits the system?</small>
-          </div>
-
-        </div>
-
-
-        <div class="decision-grid">
-
-          <article class="card">
-            <h3>Simple over clever</h3>
-            <p>
-              Complexity should solve a real problem. Abstractions and patterns
-              should earn their place in the codebase.
-            </p>
           </article>
 
-          <article class="card">
-            <h3>Context over fashion</h3>
-            <p>
-              I choose technologies and patterns based on the problem, existing
-              architecture, team capability and operational constraints.
-            </p>
+
+          <article class="outcome-card">
+
+            <div class="outcome-header">
+              <span>02</span>
+              <strong>Persistence and performance</strong>
+            </div>
+
+            <div class="outcome-step">
+              <span>Problem</span>
+              <p>
+                A backend endpoint needs related data without unnecessarily
+                loading an entire object graph.
+              </p>
+            </div>
+
+            <div class="outcome-step">
+              <span>Decision</span>
+              <p>
+                Analyse the relationship, query behaviour, fetching strategy,
+                result size, and actual data required by the use case.
+              </p>
+            </div>
+
+            <div class="outcome-step">
+              <span>Outcome</span>
+              <p>
+                More predictable persistence behaviour and a query strategy
+                aligned with the endpoint's actual requirements.
+              </p>
+            </div>
+
           </article>
 
-          <article class="card">
-            <h3>Evolution over perfection</h3>
-            <p>
-              Good design should allow the system to evolve without requiring
-              unnecessary upfront complexity.
-            </p>
+
+          <article class="outcome-card">
+
+            <div class="outcome-header">
+              <span>03</span>
+              <strong>Database evolution</strong>
+            </div>
+
+            <div class="outcome-step">
+              <span>Problem</span>
+              <p>
+                A domain change requires a database schema modification while
+                existing data and environments must remain consistent.
+              </p>
+            </div>
+
+            <div class="outcome-step">
+              <span>Decision</span>
+              <p>
+                Consider nullability, defaults, existing rows, indexes,
+                constraints, migration ordering, and application compatibility.
+              </p>
+            </div>
+
+            <div class="outcome-step">
+              <span>Outcome</span>
+              <p>
+                A migration that is deliberate, traceable, and safer to deploy
+                across environments.
+              </p>
+            </div>
+
+          </article>
+
+
+          <article class="outcome-card">
+
+            <div class="outcome-header">
+              <span>04</span>
+              <strong>Transaction boundaries</strong>
+            </div>
+
+            <div class="outcome-step">
+              <span>Problem</span>
+              <p>
+                Several database operations must behave as one consistent unit.
+              </p>
+            </div>
+
+            <div class="outcome-step">
+              <span>Decision</span>
+              <p>
+                Identify what must succeed or fail together and place the
+                transaction boundary at the appropriate service level.
+              </p>
+            </div>
+
+            <div class="outcome-step">
+              <span>Outcome</span>
+              <p>
+                More predictable consistency and fewer hidden transactional
+                assumptions inside scheduled or service-driven operations.
+              </p>
+            </div>
+
           </article>
 
         </div>
@@ -1021,7 +1485,8 @@ void process() {
 
         <p class="lead">
           Backend software ultimately runs in a real environment with real users,
-          real data and real failures. I consider those conditions during development.
+          real data, real dependencies, and real failures. I consider those
+          conditions during development.
         </p>
 
 
@@ -1073,10 +1538,10 @@ void process() {
         <h2>AI accelerates engineering. It doesn't replace judgment.</h2>
 
         <p class="lead">
-          I use AI to accelerate engineering work across research, implementation, 
-          testing, and review, but treat its output as input rather than authority. 
-          I apply my own engineering judgment to validate solutions and remain 
-          accountable for the architectural, security, business, and production decisions behind the software.
+          I use AI to accelerate research, implementation, testing, and review,
+          but treat its output as input rather than authority. I remain accountable
+          for the architectural, security, business, and production decisions
+          behind the software.
         </p>
 
 
@@ -1084,72 +1549,55 @@ void process() {
 
           <div class="card ai-card">
             <span class="ai-icon">01</span>
-
             <h3>Explore</h3>
-
             <p>
               Compare implementation approaches, investigate APIs, identify edge
-              cases and explore unfamiliar technical areas.
+              cases, and explore unfamiliar technical areas.
             </p>
           </div>
-
 
           <div class="card ai-card">
             <span class="ai-icon">02</span>
-
             <h3>Plan</h3>
-
             <p>
-              Challenge assumptions, identify dependencies and think through
-              architecture, persistence and testing implications.
+              Challenge assumptions, identify dependencies, and think through
+              architecture, persistence, and testing implications.
             </p>
           </div>
 
-
           <div class="card ai-card">
             <span class="ai-icon">03</span>
-
             <h3>Implement</h3>
-
             <p>
               Accelerate repetitive development while keeping the resulting code
               aligned with project conventions and architecture.
             </p>
           </div>
 
-
           <div class="card ai-card">
             <span class="ai-icon">04</span>
-
             <h3>Review</h3>
-
             <p>
-              Challenge implementation decisions, identify potential bugs,
-              performance issues and missing scenarios.
+              Challenge implementation decisions and identify potential bugs,
+              performance issues, and missing scenarios.
             </p>
           </div>
-
 
           <div class="card ai-card">
             <span class="ai-icon">05</span>
-
             <h3>Test</h3>
-
             <p>
-              Generate test ideas, edge cases and failure scenarios that are then
-              validated and refined by the engineer.
+              Generate test ideas, edge cases, and failure scenarios that are
+              then validated and refined by the engineer.
             </p>
           </div>
 
-
           <div class="card ai-card">
             <span class="ai-icon">06</span>
-
             <h3>Learn</h3>
-
             <p>
-              Use AI to accelerate exploration of unfamiliar technologies,
-              documentation and alternative approaches.
+              Accelerate exploration of unfamiliar technologies, documentation,
+              and alternative approaches.
             </p>
           </div>
 
@@ -1181,105 +1629,12 @@ void process() {
 
 
       <!-- =====================================================
-           ENGINEERING PRINCIPLES
-           ===================================================== -->
-
-      <section id="principles">
-
-        <div class="eyebrow">Engineering Principles</div>
-
-        <h2>Principles behind the work.</h2>
-
-        <p class="lead">
-          A few principles I use when making day-to-day engineering decisions.
-        </p>
-
-
-        <div class="principles-grid">
-
-          <article class="principle">
-            <span>01</span>
-
-            <h3>Understand before implementing.</h3>
-
-            <p>
-              The best implementation starts with understanding the domain,
-              requirements and constraints.
-            </p>
-          </article>
-
-
-          <article class="principle">
-            <span>02</span>
-
-            <h3>Prefer simple solutions.</h3>
-
-            <p>
-              Complexity should solve a real problem. Abstractions should earn
-              their place in the system.
-            </p>
-          </article>
-
-
-          <article class="principle">
-            <span>03</span>
-
-            <h3>Design for change.</h3>
-
-            <p>
-              Good backend code should be understandable and adaptable as
-              business requirements evolve.
-            </p>
-          </article>
-
-
-          <article class="principle">
-            <span>04</span>
-
-            <h3>Review problems, not preferences.</h3>
-
-            <p>
-              Technical feedback should be backed by correctness, maintainability,
-              performance, security or another meaningful engineering concern.
-            </p>
-          </article>
-
-
-          <article class="principle">
-            <span>05</span>
-
-            <h3>Production is the real test.</h3>
-
-            <p>
-              Reliability, security, observability and data integrity matter
-              beyond the development environment.
-            </p>
-          </article>
-
-
-          <article class="principle">
-            <span>06</span>
-
-            <h3>Own the result.</h3>
-
-            <p>
-              Engineering responsibility extends beyond implementation to testing,
-              deployment, operation and continuous improvement.
-            </p>
-          </article>
-
-        </div>
-
-      </section>
-
-
-      <!-- =====================================================
            WORK
            ===================================================== -->
 
       <section id="work">
 
-        <div class="eyebrow">Selected work</div>
+        <div class="eyebrow">Selected Work</div>
 
         <h2>Systems and domains I've worked on.</h2>
 
@@ -1289,11 +1644,13 @@ void process() {
         </p>
 
         <div class="grid">
+
           <ProjectCard
             v-for="p in projects"
             :key="p.title"
             v-bind="p"
           />
+
         </div>
 
       </section>
@@ -1314,19 +1671,30 @@ void process() {
             <h2>Backend first. Product aware.</h2>
 
             <p class="lead">
-             I engineer reliable backend systems that turn complex business requirements 
-             into well-defined domain models, maintainable services, and predictable APIs. 
-              My strongest area is Java backend engineering, with a particular focus on 
-              enterprise systems where reliability, security, data integrity, and long-term maintainability are critical.
+              I engineer reliable backend systems that turn complex business
+              requirements into well-defined domain models, maintainable services,
+              and predictable APIs.
             </p>
 
             <p class="lead">
-              I hold an M.Sc. in Advanced Software Development Technologies and am currently 
-              pursuing a second M.Sc. in Cybersecurity, with a focus on Cybersecurity, 
-              Blockchain, and secure software systems, at the University of Piraeus. 
-              I have experience across government, fintech, intellectual property, transportation,
-              and enterprise software. I bring a product-aware engineering mindset to backend 
-              development—understanding not only how systems should be built, but why they exist and how they should serve the business.
+              My strongest area is Java backend engineering, with a particular
+              focus on enterprise systems where reliability, security, data
+              integrity, and long-term maintainability are critical.
+            </p>
+
+            <p class="lead">
+              I hold an M.Sc. in Advanced Software Development Technologies and
+              am currently pursuing a second M.Sc. in Cybersecurity, with a focus
+              on Cybersecurity, Blockchain, and secure software systems, at the
+              University of Piraeus.
+            </p>
+
+            <p class="lead">
+              I have experience across government, fintech, intellectual property,
+              transportation, and enterprise software. I bring a product-aware
+              engineering mindset to backend development — understanding not only
+              how systems should be built, but why they exist and how they should
+              serve the business.
             </p>
 
             <a class="btn primary" href="/assets/cv.pdf" download>
@@ -1371,7 +1739,7 @@ void process() {
 
       <section id="stack">
 
-        <div class="eyebrow">Technical stack</div>
+        <div class="eyebrow">Technical Stack</div>
 
         <h2>The tools behind the work.</h2>
 
@@ -1437,23 +1805,33 @@ void process() {
         <div class="eyebrow">Education</div>
 
         <h2>Academic foundation.</h2>
-        
+
         <div class="education-grid">
 
-           <div class="card">
+          <div class="card">
+
             <span class="education-label">M.Sc.</span>
 
             <h3>
-               <div class="csm-1">M.Sc. — Cybersecurity · <span class="csm-cp">Currently pursuing ..</span></div>  
-               <div class="csm-2">Focus on Cybersecurity, Blockchain and secure software systems. </div>
+              <div class="csm-1">
+                M.Sc. — Cybersecurity ·
+                <span class="csm-cp">Currently pursuing</span>
+              </div>
+
+              <div class="csm-2">
+                Focus on Cybersecurity, Blockchain and secure software systems.
+              </div>
             </h3>
 
             <p>
-              University of Piraeus · 
+              University of Piraeus
             </p>
+
           </div>
-          
+
+
           <div class="card">
+
             <span class="education-label">M.Sc.</span>
 
             <h3>
@@ -1463,10 +1841,12 @@ void process() {
             <p>
               University of Piraeus · GPA 9.35 / 10
             </p>
+
           </div>
 
 
           <div class="card">
+
             <span class="education-label">B.Sc.</span>
 
             <h3>
@@ -1476,22 +1856,30 @@ void process() {
             <p>
               TEI of Athens · GPA 7.5 / 10
             </p>
+
           </div>
 
+
           <div class="card">
-            <span class="education-label">Technical Vocational Education</span>
+
+            <span class="education-label">
+              Technical Vocational Education
+            </span>
 
             <h3>
               Application Engineer and Computer Networks
             </h3>
 
             <p>
-              Technical Vocational School of Athens · 3-year technical studies · GPA 9.82/10
+              Technical Vocational School of Athens ·
+              3-year technical studies · GPA 9.82 / 10
             </p>
+
           </div>
-          
+
 
           <div class="card">
+
             <span class="education-label">Certificate</span>
 
             <h3>
@@ -1501,6 +1889,7 @@ void process() {
             <p>
               National Technical University of Athens
             </p>
+
           </div>
 
         </div>
@@ -1525,7 +1914,7 @@ void process() {
             </h2>
 
             <p class="lead">
-              For opportunities, collaboration or technical conversations,
+              For opportunities, collaboration, or technical conversations,
               find me here.
             </p>
 
@@ -1560,7 +1949,7 @@ void process() {
             >
               GitLab ↗
             </a>
-            
+
             <a
               class="btn"
               href="mailto:a.karmenis@outlook.com"
