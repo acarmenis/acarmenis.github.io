@@ -141,9 +141,10 @@ import { projects } from './data/projects'
               <h3>Senior Java Developer · Universal Tankers Corporation</h3>
 
               <p>
-                Java and Spring Boot application development in a multi-technology
-                environment, working with REST APIs, Groovy, Rails, Angular, Oracle,
-                PostgreSQL and Keycloak.
+                Engineering enterprise software supporting the worldwide operations of a tanker shipping company, 
+                spanning vessel and crew scheduling, personnel management, procurement and supplies, ticketing, 
+                cargo management, and voyage planning. Worked across a complex multi-technology environment, 
+                developing and integrating Java and Spring Boot services with REST APIs, Groovy, Rails, Angular, Oracle, PostgreSQL, and Keycloak.
               </p>
 
               <div class="tags">
@@ -166,9 +167,11 @@ import { projects } from './data/projects'
               <h3>Senior Java Developer · UniSystems</h3>
 
               <p>
-                Delivered scalable Java applications for major public-sector and
-                enterprise projects, including Greek eJustice, Cyprus eJustice and
-                the UK Emissions Trading Scheme.
+                Engineered large-scale Java applications for critical public-sector and government systems, 
+                including nationwide eJustice platforms for Greece and Cyprus. Contributed to digital 
+                transformation of judicial processes across both countries, 
+                as well as the UK Emissions Trading Scheme, working on complex enterprise systems where reliability, 
+                security, and scalability were essential.
               </p>
 
               <div class="tags">
@@ -189,8 +192,9 @@ import { projects } from './data/projects'
               <h3>Java Developer · European Patent Office</h3>
 
               <p>
-                Contributed to application development with an emphasis on robust
-                services and reliable system performance.
+                Developed enterprise applications supporting European patent and intellectual property operations within the European Patent Office, 
+                an international organization serving patent systems across Europe. 
+                Contributed to robust Java services, reliable integrations, and high-performance applications in a large-scale public-sector environment.
               </p>
             </div>
           </article>
@@ -203,8 +207,9 @@ import { projects } from './data/projects'
               <h3>Java Developer · EUIPO / Greek Ministry</h3>
 
               <p>
-                Worked on digital transformation, technology-stack modernization
-                and integration of services, databases and the surrounding ecosystem.
+                Contributed to the digital transformation and modernization of trademark services, 
+                integrating applications, databases, and the broader enterprise ecosystem to support 
+                reliable and scalable intellectual property operations.
               </p>
             </div>
           </article>
@@ -214,9 +219,8 @@ import { projects } from './data/projects'
             <div>
               <h3>Java Software Engineer · Municipal Water & Sewerage Enterprise</h3>
               <p>
-                Developed and enhanced Java-based enterprise systems supporting municipal
-                water and sewerage operations, translating business requirements into
-                reliable software solutions while collaborating with cross-functional teams.
+                Developed and enhanced Java-based enterprise systems supporting essential public-sector water and sewerage services,
+                translating business requirements into reliable software solutions and collaborating across technical and business teams.
               </p>
               <div class="tags">
                 <span class="tag">Java</span><span class="tag">Backend</span>
@@ -231,10 +235,10 @@ import { projects } from './data/projects'
             <div>
               <h3>Java Developer · Wirecard</h3>
               <p>
-                Developed high-performance Java applications within a global digital
-                payments environment, working on financial systems supporting cashless
-                payment processes and integrations across online, mobile and point-of-sale
-                channels.
+                Developed and maintained enterprise Java applications within a global financial services and payments environment, 
+                supporting banks, credit card transactions, merchants, and point-of-sale systems. Worked across POS, mobile, telephone, 
+                and web payment channels, integrating distributed financial services and contributing to high-performance, 
+                reliable payment infrastructure at global scale.
               </p>
               <div class="tags">
                 <span class="tag">Java</span><span class="tag">Fintech</span>
@@ -249,9 +253,10 @@ import { projects } from './data/projects'
             <div>
               <h3>Java Full Stack Developer · Xite Agency</h3>
               <p>
-                Designed and implemented full-stack web applications, combining Java and
-                PHP backend development with frontend functionality and database-driven
-                solutions for web and digital projects.
+                Designed, developed, and maintained web applications and websites, working across Java and PHP backends,
+                frontend functionality, and database-driven solutions. 
+                Delivered new web projects while maintaining and enhancing existing 
+                applications to ensure reliability and ongoing functionality.
               </p>
               <div class="tags">
                 <span class="tag">Java</span><span class="tag">PHP</span>
@@ -266,9 +271,9 @@ import { projects } from './data/projects'
             <div>
               <h3>Java Full Stack Developer · Local Government</h3>
               <p>
-                Developed Java-based web applications supporting municipal digital
-                services, focusing on reliable backend functionality, user-facing
-                workflows and integration with public-sector processes.
+                Developed and maintained Java-based web applications supporting essential public-sector and municipal services. 
+                Worked across backend functionality, user-facing workflows, 
+                database integration, and business processes, translating operational requirements into reliable digital solutions.
               </p>
               <div class="tags">
                 <span class="tag">Java</span><span class="tag">Government</span>
