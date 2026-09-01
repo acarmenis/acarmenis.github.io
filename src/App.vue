@@ -21,13 +21,13 @@ import { projects } from './data/projects'
           <h1>Building reliable backend systems that scale.</h1>
 
           <p>
-            Senior Java Backend Engineer with 15+ years of experience architecting 
-            and delivering robust enterprise systems for government, financial, 
-            and complex business domains. Strong expertise in Java-based backend development, 
-            API design, distributed systems, persistence, security, database architecture, 
-            and enterprise integrations. Proven ability to translate complex business 
-            requirements into scalable, maintainable technical solutions, 
-            while driving architectural decisions, code quality, testing, and long-term system sustainability.
+            Senior Java Backend Engineer with 16+ years of experience architecting and delivering robust 
+            enterprise systems across government, financial, and complex business domains. 
+            Strong expertise in Java-based backend development, API design, distributed systems, 
+            persistence, security, database architecture, and enterprise integrations, 
+            with hands-on specialization in Spring Boot and Quarkus. 
+            Proven ability to translate complex business requirements into scalable, 
+            maintainable technical solutions while driving architectural decisions, code quality, testing, and long-term system sustainability.
           </p>
 
           <div class="hero-philosophy">
